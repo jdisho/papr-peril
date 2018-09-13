@@ -1,6 +1,5 @@
 {
   "settings": {
-    [your settings]
   },
   "rules": {
      "status.success": "jdisho/papr-peril/mergeOnGreen.ts",
